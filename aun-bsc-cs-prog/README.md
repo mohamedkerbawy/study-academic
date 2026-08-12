@@ -1,6 +1,6 @@
 # AUN B.Sc. in Computer Science Program
 
-Assiut University, Faculty of Science, B.Sc. Computer Science Program
+Assiut University — Bachelor of Science (B.Sc.) in Computer Science Program
 
 The original B.Sc. in Computer Science program as studied at university, representing the academic foundation of my computer science education. The curriculum is organized into three main categories: Mathematics, Physics, and Computer Science courses.
 
