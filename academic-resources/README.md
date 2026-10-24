@@ -1,4 +1,4 @@
-# Academic study Library
+# Academic Resources
 
 Academic resources for Mathematics, Physics, Computer Science, and Software Engineering.
 
