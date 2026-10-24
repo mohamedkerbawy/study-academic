@@ -8,78 +8,78 @@ The original B.Sc. in Computer Science program as studied at university, represe
 
 ## [Mathematics](Math/README.md)
 
-* Differential Calculus I
-* Algebra
-* Mechanics I, Statics
-* Integral Calculus I
-* Geometry
-* Mechanics I, Dynamics
-* Differential Calculus II
-* Linear Algebra and Solid Geometry
-* Mechanics II, Dynamics of Particle
-* Integral Calculus II
-* Probability
-* Mechanics II, Dynamics of Solid Bodies
-* Differential Equations
-* Numerical Analysis I
-* Operations Research I
-* Numerical Analysis II
-* Operations Research II
-* Statistics
+* 01- Differential Calculus I
+* 02- Algebra
+* 03- Mechanics I, Statics
+* 04- Integral Calculus I
+* 05- Geometry
+* 06- Mechanics I, Dynamics
+* 07- Differential Calculus II
+* 08- Linear Algebra and Solid Geometry
+* 09- Mechanics II, Dynamics of Particle
+* 10- Integral Calculus II
+* 11- Probability
+* 12- Mechanics II, Dynamics of Solid Bodies
+* 13- Differential Equations
+* 14- Numerical Analysis I
+* 15- Operations Research I
+* 16- Numerical Analysis II
+* 17- Operations Research II
+* 18- Statistics
 
 ## [Physics](Physics/README.md)
 
-* Properties of Matter
-* Heat and Principals of Thermodynamics
-* Geometric Optics and Acoustics
-* Electricity and Magnetism
-* Vibrations and Waves
-* Thermodynamics
-* Physical Optics
-* Electricity and A.C.
-* Principles of Modern Physics
-* Semiconductors and its applications
-* Electronics
+* 01- Properties of Matter
+* 02- Heat and Principals of Thermodynamics
+* 03- Geometric Optics and Acoustics
+* 04- Electricity and Magnetism
+* 05- Vibrations and Waves
+* 06- Thermodynamics
+* 07- Physical Optics
+* 08- Electricity and A.C.
+* 09- Principles of Modern Physics
+* 10- Semiconductors and its applications
+* 11- Electronics
 
 ## [Computer Science](Computer/README.md)
 
-* Principles of Computer Science
-* Scientific Computation I
+* 01- Principles of Computer Science
+* 02- Scientific Computation I
 
     └── with Fortran Programming Language, MATLAB and Mathematica Software
-* Theory of Computation
-* Fundamentals of Programming Languages
+* 03- Theory of Computation
+* 04- Fundamentals of Programming Languages
 
     └── with Pascal Programming Language
-* Scientific Computation II
+* 05- Scientific Computation II
 
     └── with C Programming Language, MATLAB and Simulink Software
-* Formal Language and Automata
+* 06- Formal Language and Automata
 
     └── with ProLog Language
-* Algorithms
-* Logic Digital Circuits
-* Computer Systems and Architecture
-* Compilers
-* Microprocessors and Communication Circuit
+* 07- Algorithms
+* 08- Logic Digital Circuits
+* 09- Computer Systems and Architecture
+* 10- Compilers
+* 11- Microprocessors and Communication Circuit
 
     └── with Assembly Language
-* Operating Systems
-* Object-Oriented Programming
+* 12- Operating Systems
+* 13- Object-Oriented Programming
 
     └── with C++ Programming Language
-* Computer Networks
-* Data Communications
-* Data Structure
+* 14- Computer Networks
+* 15- Data Communications
+* 16- Data Structure
 
     └── with C++ Programming Language
-* Databases
+* 17- Databases
 
     └── with T-SQL Language
-* Artificial Intelligence
-* Computer Security
-* Data Mining
-* Distributed Systems
+* 18- Artificial Intelligence
+* 19- Computer Security
+* 20- Data Mining
+* 21- Distributed Systems
 
 ## Others
 
